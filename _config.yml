@@ -1,0 +1,6 @@
+title: Andrei Sorokin — приложения
+description: Политики конфиденциальности приложений «Гарантия» и «Домовой»
+theme: jekyll-theme-primer
+exclude:
+  - README.md
+  - sync.sh
